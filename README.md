@@ -17,7 +17,7 @@ We used it to sniff packets and send new ones to simulate a network.
 ## How To Run
 1. Connect the monitor device (in our case an ALFA device) and connect it to the Kali machine.
 2. Open a terminal and write the following:
-	2.1. `ifconfig` - check the last device that was added, if you have no other devices it will be **wlan0**. 
-	2.2. `airmon-ng start wlan0` - this command turns on monitor mode. Change **wlan0** to your result from the the previous bullet.
-	2.3. `airodump-ng -i wlan0` - listen using the monitor device to see your fuzzing target's mac address.
-3. `python3 wifiFuzzer.py --help` to get information about the possible command line arguments.
+3. `ifconfig` - check the last device that was added, if you have no other devices it will be **wlan0**. 
+4. `airmon-ng start wlan0` - this command turns on monitor mode. Change **wlan0** to your result from the the previous bullet.
+5. `airodump-ng -i wlan0` - listen using the monitor device to see your fuzzing target's mac address.
+6. `python3 wifiFuzzer.py --help` to get information about the possible command line arguments.
