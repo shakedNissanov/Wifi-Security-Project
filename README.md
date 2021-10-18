@@ -1,4 +1,4 @@
-# WiBye - Wifi's Association Stage Fuzzer
+# WiBye - Wifi's Connection Stage Fuzzer
 
 ![](https://lh3.googleusercontent.com/proxy/AuW8YXpgR5BamYajCQvVxgrbNiHk-d-o74wZ75d4vKUPP-gAN5zmAHHzqTlrDvx5AeFzftO0E5F6XI3yuQ8CLTDz1ggqgwA)
 
