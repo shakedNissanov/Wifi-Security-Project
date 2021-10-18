@@ -1,6 +1,6 @@
 # WiBye - Wifi's Connection Stage Fuzzer
 
-![](https://lh3.googleusercontent.com/proxy/AuW8YXpgR5BamYajCQvVxgrbNiHk-d-o74wZ75d4vKUPP-gAN5zmAHHzqTlrDvx5AeFzftO0E5F6XI3yuQ8CLTDz1ggqgwA)
+![](https://files.geektime.co.il/wp-content/uploads/2016/01/1280px-Wi-Fi_Logo.svg_-1.png)
 
 ## Motivation
 We are Ella Sheory and Shaked Nissanov, Software Engineering students from the Technion.
